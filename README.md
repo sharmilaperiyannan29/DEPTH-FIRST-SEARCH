@@ -151,8 +151,8 @@ G F <BR>
 
 OUTPUT
 
+<img width="600" height="390" alt="WhatsApp Image 2026-07-27 at 2 35 18 PM" src="https://github.com/user-attachments/assets/58d7ae55-2c1a-4e3b-9a3b-af7c40aa0246" />
 
-<img width="509" height="329" alt="image" src="https://github.com/user-attachments/assets/bfbe3366-e449-4c1a-ae48-27f307d267b2" />
 <img width="509" height="329" alt="image" src="https://github.com/user-attachments/assets/0495df89-b720-4741-b8fe-68a731a4a55f" />
 
 <hr>
