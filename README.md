@@ -150,9 +150,14 @@ G F <BR>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
-OUTPUT
 
-<img width="586" height="347" alt="Screenshot 2026-07-27 084137" src="https://github.com/user-attachments/assets/75d0f1be-1624-4e99-8f02-7308b5df52ee" />
+#OUTPUT
+
+
+
+
+<img width="662" height="387" alt="Screenshot 2026-07-27 084617" src="https://github.com/user-attachments/assets/ed4a5ca8-fc00-486f-8052-dd917aabf899" />
+
 
 
 
