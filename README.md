@@ -67,6 +67,47 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 </ol>
+<h3>PROGRAM</h3>
+```
+from collections import defaultdict
+
+def bfs(graph, start):
+    visited = []
+    queue = []
+    path = []
+
+  visited.append(start)
+    queue.append(start)
+
+  while queue:
+        node = queue.pop(0)
+        path.append(node)
+
+  for neighbour in graph[node]:
+            if neighbour not in visited:
+                visited.append(neighbour)
+                queue.append(neighbour)
+
+return path
+
+
+graph = defaultdict(list)
+
+v, e = map(int, input("Enter number of vertices and edges: ").split())
+
+for i in range(e):
+    u, w = input(f"Enter edge {i+1} (u v): ").split()
+    graph[u].append(w)
+    graph[w].append(u)
+
+start = "A"
+
+
+result = bfs(graph, start)
+
+print("BFS Traversal:", result)
+
+
 
 <hr>
 <h3>Sample Input</h3>
