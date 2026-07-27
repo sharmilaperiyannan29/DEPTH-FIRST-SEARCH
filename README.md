@@ -146,17 +146,19 @@ G F <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
+
+
+OUTPUT
+
+
+<img width="509" height="329" alt="image" src="https://github.com/user-attachments/assets/bfbe3366-e449-4c1a-ae48-27f307d267b2" />
+<img width="509" height="329" alt="image" src="https://github.com/user-attachments/assets/0495df89-b720-4741-b8fe-68a731a4a55f" />
+
 <hr>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
-
-#OUTPUT
-
-
-
-
-<img width="662" height="387" alt="Screenshot 2026-07-27 084617" src="https://github.com/user-attachments/assets/ed4a5ca8-fc00-486f-8052-dd917aabf899" />
 
 
 
